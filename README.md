@@ -5,8 +5,11 @@ Collect some abbreviations and acronyms for naming.
 
 
 `编码取名就要叼`
-`脑壳扎疼想不够`
+
+`脑壳扎疼想不够`
+
 `动词名称缩写词`
+
 `头发已是全掉掉`
 
 
