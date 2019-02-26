@@ -3,11 +3,10 @@
 
 Collect some abbreviations and acronyms for naming.
 
-
-<div>编码取名就要叼</div>
-<div>脑壳扎疼想不够</div>
-<div>动词名称缩写词</div>
-<div>头发已是全掉掉</div>
+<div style="font-size: 0.88rem;">编码取名就要叼</div>
+<div style="font-size: 0.88rem;">脑壳扎疼想不够</div>
+<div style="font-size: 0.88rem;">动词名称缩写词</div>
+<div style="font-size: 0.88rem;">头发已是全掉掉</div>
 
 
 # TOC
